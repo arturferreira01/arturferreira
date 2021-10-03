@@ -4,7 +4,7 @@ Olá ! seja bem vindo (a) 👋
 
 📚 Cursando Análise e desenvolvimento de sistemas
 
-🌱 Estudando no momento Python e Javascript
+🌱 Estudando no momento Python , Javascript , HTML5 e CSS
 
 <div align="center">
   <a href="https://github.com/arturferreira01">
