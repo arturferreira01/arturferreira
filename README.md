@@ -1,6 +1,6 @@
 Olá ! seja bem vindo (a) 👋
 
-🖱 Entusiasta da Tecnologia
+🖱 Apaixonado por Tecnologia
 
 📚 Cursando Análise e desenvolvimento de sistemas
 
